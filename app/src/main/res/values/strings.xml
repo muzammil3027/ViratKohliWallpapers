@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Virat Kohli Wallpapers</string>
+    <string name="set_wallpaper">Set Wallpaper</string>
+    <string name="download">Download</string>
+    <string name="share">Share</string>
+    <string name="wallpaper_image_desc">Virat Kohli wallpaper thumbnail</string>
+    <string name="full_screen_image_desc">Virat Kohli wallpaper full screen</string>
+</resources>
